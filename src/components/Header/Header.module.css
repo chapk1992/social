@@ -1,0 +1,5 @@
+.Header {
+    grid-area: h;
+    background-color: rgb(224, 15, 15);
+    min-height: 50px;
+}

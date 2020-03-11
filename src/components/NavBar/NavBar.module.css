@@ -1,0 +1,4 @@
+div .Nav {
+    grid-area: n;
+    background-color: chartreuse;
+}
