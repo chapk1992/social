@@ -1,4 +1,13 @@
 div .Nav {
     grid-area: n;
-    background-color: chartreuse;
+    background-color: rgb(63, 6, 128);
+}
+
+.NavItem a {
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a.active {
+    color: darkorange;
 }

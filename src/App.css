@@ -1,9 +1,12 @@
 .App {
   text-align: center;
   display: grid;
-  background-color: blue;
   grid-template-areas: 'h h' 'n c';
   grid-template-columns: 1fr 10fr;
   max-width: 1500px;
   margin: 100px auto;
+}
+
+.app-navigation {
+  background-color: cyan;
 }
