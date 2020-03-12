@@ -1,0 +1,12 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+a.active {
+  color: deeppink;
+}
+
+.dialog a {
+  text-decoration: none;
+}
